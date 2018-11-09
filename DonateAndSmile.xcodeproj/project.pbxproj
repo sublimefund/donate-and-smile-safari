@@ -46,7 +46,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		94F3064D2196418000609FA8 /* DonateAndSmile.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DonateAndSmile.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		94F3064D2196418000609FA8 /* Donate and Smile.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Donate and Smile.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		94F306502196418000609FA8 /* DonateAndSmile.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = DonateAndSmile.entitlements; sourceTree = "<group>"; };
 		94F306522196418000609FA8 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		94F306552196418000609FA8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -96,7 +96,7 @@
 		94F3064E2196418000609FA8 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				94F3064D2196418000609FA8 /* DonateAndSmile.app */,
+				94F3064D2196418000609FA8 /* Donate and Smile.app */,
 				94F306602196418100609FA8 /* DonateAndSmile Extension.appex */,
 			);
 			name = Products;
@@ -156,7 +156,7 @@
 			);
 			name = DonateAndSmile;
 			productName = DonateAndSmile;
-			productReference = 94F3064D2196418000609FA8 /* DonateAndSmile.app */;
+			productReference = 94F3064D2196418000609FA8 /* Donate and Smile.app */;
 			productType = "com.apple.product-type.application";
 		};
 		94F3065F2196418100609FA8 /* DonateAndSmile Extension */ = {
@@ -453,7 +453,7 @@
 					"@executable_path/../Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = org.sublimefund.DonateAndSmile;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "Donate and Smile";
 				SWIFT_VERSION = 4.2;
 			};
 			name = Debug;
@@ -473,7 +473,7 @@
 					"@executable_path/../Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = org.sublimefund.DonateAndSmile;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "Donate and Smile";
 				SWIFT_VERSION = 4.2;
 			};
 			name = Release;

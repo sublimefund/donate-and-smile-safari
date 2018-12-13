@@ -64,6 +64,6 @@
 	<key>NSHumanReadableCopyright</key>
 	<string>Copyright © 2018 Sublime Fund. All rights reserved.</string>
 	<key>NSHumanReadableDescription</key>
-	<string>This is a Safari Extension. You should tell us what your extension does here.</string>
+	<string>Automatically redirect to AmazonSmile to support your favorite charity when you shop.</string>
 </dict>
 </plist>

@@ -15,7 +15,7 @@ class ViewController: NSViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        self.appNameLabel.stringValue = "Donate and Smile";
+        self.appNameLabel.stringValue = "Donate and Smile"
     }
     
     @IBAction func openSafariExtensionPreferences(_ sender: AnyObject?) {

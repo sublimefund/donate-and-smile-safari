@@ -100,14 +100,14 @@
             <objects>
                 <viewController id="XfG-lQ-9wD" customClass="ViewController" customModule="Donate_and_Smile" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" wantsLayer="YES" id="m2S-Jp-Qdl">
-                        <rect key="frame" x="0.0" y="0.0" width="480" height="329"/>
+                        <rect key="frame" x="0.0" y="0.0" width="480" height="333"/>
                         <autoresizingMask key="autoresizingMask"/>
                         <subviews>
                             <stackView distribution="fill" orientation="vertical" alignment="centerX" spacing="42" horizontalStackHuggingPriority="249.99998474121094" verticalStackHuggingPriority="249.99998474121094" detachesHiddenViews="YES" translatesAutoresizingMaskIntoConstraints="NO" id="ZLV-xE-AGT">
-                                <rect key="frame" x="0.0" y="34" width="480" height="250"/>
+                                <rect key="frame" x="0.0" y="34" width="480" height="254"/>
                                 <subviews>
                                     <imageView horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="FWV-e2-WQh" userLabel="IconView">
-                                        <rect key="frame" x="176" y="122" width="128" height="128"/>
+                                        <rect key="frame" x="176" y="122" width="128" height="132"/>
                                         <imageCell key="cell" refusesFirstResponder="YES" alignment="left" image="AppIcon" id="Hhb-TZ-Dhg"/>
                                     </imageView>
                                     <textField horizontalHuggingPriority="251" verticalHuggingPriority="750" translatesAutoresizingMaskIntoConstraints="NO" id="EB0-ac-UZR">
@@ -119,8 +119,8 @@
                                         </textFieldCell>
                                     </textField>
                                     <button verticalHuggingPriority="750" translatesAutoresizingMaskIntoConstraints="NO" id="ooh-eV-eLQ">
-                                        <rect key="frame" x="99" y="-7" width="282" height="32"/>
-                                        <buttonCell key="cell" type="push" title="Open in Safari Extensions Preferences…" alternateTitle="Install" bezelStyle="rounded" alignment="center" lineBreakMode="truncatingMiddle" state="on" borderStyle="border" imageScaling="proportionallyDown" inset="2" id="Srx-0j-A4D">
+                                        <rect key="frame" x="112" y="-7" width="257" height="32"/>
+                                        <buttonCell key="cell" type="push" title="Open Safari Extensions Preferences" alternateTitle="Install" bezelStyle="rounded" alignment="center" lineBreakMode="truncatingMiddle" state="on" borderStyle="border" imageScaling="proportionallyDown" inset="2" id="Srx-0j-A4D">
                                             <behavior key="behavior" pushIn="YES" lightByBackground="YES" lightByGray="YES"/>
                                             <font key="font" metaFont="system"/>
                                             <string key="keyEquivalent" base64-UTF8="YES">

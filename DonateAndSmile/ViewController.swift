@@ -15,7 +15,7 @@ class ViewController: NSViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        self.appNameLabel.stringValue = "Donate and Smile"
+        self.appNameLabel.stringValue = "To use Donate and Smile, enable it in Safari Extensions Preferences."
     }
     
     @IBAction func openSafariExtensionPreferences(_ sender: AnyObject?) {

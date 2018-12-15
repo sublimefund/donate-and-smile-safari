@@ -19,7 +19,7 @@ class ViewController: NSViewController {
     }
     
     @IBAction func openSafariExtensionPreferences(_ sender: AnyObject?) {
-        SFSafariApplication.showPreferencesForExtension(withIdentifier: "org.sublimefund.DonateAndSmile-Extension") { error in
+        SFSafariApplication.showPreferencesForExtension(withIdentifier: "org.sublimefund.DonateAndSmile.safari") { error in
             if let _ = error {
                 // Insert code to inform the user that something went wrong.
 

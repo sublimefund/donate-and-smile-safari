@@ -37,6 +37,15 @@ tests must be done manually. Here are cases to try:
     * not logged in: user should land on the non-Smile page but with a Smile banner near the top
 * Go to a non-Amazon page, then an Amazon page, and make sure back and forward as expected
 
+## Publishing
+
+* In the Xcode menu bar, do "Product > Archive"
+* Use "Distribute App" to upload the archive to Apple
+    * To view archives, go to "Window > Organizer"
+* Log in to [App Store Connect](https://appstoreconnect.apple.com/)
+* Go to "My Apps", and find Donate and Smile
+* Go to "App Store > MacOS App > Build", and select the new archive
+
 ## License
 
 MIT

@@ -39,6 +39,7 @@ tests must be done manually. Here are cases to try:
 
 ## Publishing
 
+* Update the version and build number as appropriate
 * In the Xcode menu bar, do "Product > Archive"
 * Use "Distribute App" to upload the archive to Apple
     * To view archives, go to "Window > Organizer"
